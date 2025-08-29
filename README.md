@@ -15,8 +15,6 @@
   一个基于 MPV 内核的简约 Emby AndroidTV 客户端
 </div>
 
-
-
 ## 使用说明
 
 1. 项目刚起步，功能大多比较简陋，只满足日常基本需求，欢迎 issue 区反馈，佛系更新～
@@ -26,7 +24,7 @@
 
 ## 请我喝杯 9.9💰 的 Luckin Coffee☕️
 
-<img height="500px" src="/Users/ambitious/Desktop/code/flutter/gemby-public/assets/2024-11-05-09-57-45.jpg"></img>
+<img height="500px" src="./assets/2024-11-05-09-57-45.jpg"></img>
 
 ## Star History
 
