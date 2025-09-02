@@ -6,7 +6,7 @@
 <h1 align="center">gemby</h1>
 
 <div align="center">
-  <a href="https://github.com/AmbitiousJun/gemby/tree/v2.2.9"><img src="https://img.shields.io/github/v/tag/AmbitiousJun/gemby"></img></a>
+  <img src="https://img.shields.io/github/v/tag/AmbitiousJun/gemby"></img>
   <a href="https://github.com/AmbitiousJun/gemby/releases/latest"><img src="https://img.shields.io/github/downloads/AmbitiousJun/gemby/total"></img></a>
   <img src="https://img.shields.io/github/stars/AmbitiousJun/gemby"></img>
 </div>
