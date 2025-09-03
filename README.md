@@ -15,6 +15,12 @@
   一个基于 MPV 内核的简约 Emby AndroidTV 客户端
 </div>
 
+## 示例图
+
+<div align="center">
+  <img src="./assets/example.png"></img>
+</div>
+
 ## 使用说明
 
 1. 项目刚起步，功能大多比较简陋，只满足日常基本需求，欢迎 issue 区反馈，佛系更新～
