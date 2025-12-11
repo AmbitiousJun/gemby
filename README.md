@@ -15,16 +15,20 @@
   一个基于 MPV 内核的简约 Emby AndroidTV 客户端
 </div>
 
-## 示例图
+## 界面展示
 
 <div align="center">
   <img src="./assets/example.png"></img>
 </div>
 
+## 交流群
+
+- QQ: `1040749206`
+
 ## 使用说明
 
-1. 项目刚起步，功能大多比较简陋，只满足日常基本需求，欢迎 issue 区反馈，佛系更新～
-2. 播放接口基于 [ge2o](https://github.com/AmbitiousJun/go-emby2openlist) 进行开发，可能对 Emby 原生播放功能适配不是特别好
+1. 目前只适配 AndroidTV，欢迎 issue 区反馈问题，佛系更新～
+2. 播放接口基于 [go-emby2openlist](https://github.com/AmbitiousJun/go-emby2openlist) 进行开发，可能对 Emby 原生播放功能适配不是特别好
 
 
 
