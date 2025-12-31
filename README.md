@@ -45,5 +45,5 @@
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=AmbitiousJun/gemby&type=Date" />
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=AmbitiousJun/gemby&type=Date" />
  </picture>
-
+ 
 </a>
