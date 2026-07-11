@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  一个基于 MPV 内核的简约 Emby AndroidTV 客户端
+  一个基于 MPV / Media3 / VLC 播放内核的简约 Emby AndroidTV 客户端
 </div>
 
 ## 界面展示
