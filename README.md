@@ -15,12 +15,6 @@
   一个基于 MPV / Media3 / VLC 播放内核的简约 Emby AndroidTV 客户端
 </div>
 
-## 界面展示
-
-<div align="center">
-  <img src="./assets/example.png"></img>
-</div>
-
 ## 交流群
 
 - QQ: `1040749206`
@@ -34,7 +28,71 @@
 5. 播放页中，菜单键和确认 (OK) 键均可唤出控制器，连按确认键可快捷切换倍速（可在设置中自定义修改倍速值）
 6. 触摸屏长按、键盘 M 键、遥控器菜单键均可唤出卡片菜单
 
+## 界面展示
 
+
+
+### 首页
+
+![image-20260718170034540](./assets/image-20260718170034540.png)
+
+![image-20260718171226727](./assets/image-20260718171226727.png)
+
+![image-20260718170836693](./assets/image-20260718170836693.png)
+
+
+
+### 搜索
+
+![image-20260718170300516](./assets/image-20260718170300516.png)
+
+
+
+### 媒体库详情
+
+![image-20260718170438849](./assets/image-20260718170438849.png)
+
+
+
+### 收藏剧集详情
+
+![image-20260718170505893](./assets/image-20260718170505893.png)
+
+
+
+### 设置页
+
+![image-20260718170620828](./assets/image-20260718170620828.png)
+
+![image-20260718170630872](./assets/image-20260718170630872.png)
+
+![image-20260718170641760](./assets/image-20260718170641760.png)
+
+![image-20260718170701485](./assets/image-20260718170701485.png)
+
+
+
+### 媒体库连接
+
+![image-20260718170741977](./assets/image-20260718170741977.png)
+
+
+
+### 剧集列表
+
+![image-20260718170956933](./assets/image-20260718170956933.png)
+
+
+
+### 剧集详情
+
+![image-20260718171025968](./assets/image-20260718171025968.png)
+
+
+
+### 播放页
+
+![image-20260718171124503](./assets/image-20260718171124503.png)
 
 ## 请我喝杯 9.9💰 的 Luckin Coffee☕️
 
@@ -49,5 +107,5 @@
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=AmbitiousJun/gemby&type=Date" />
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=AmbitiousJun/gemby&type=Date" />
  </picture>
- 
+
 </a>
