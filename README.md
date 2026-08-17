@@ -18,9 +18,6 @@
 ## 交流群
 
 - QQ: `1040749206`
-- WX:（失效等更新）
-  
-  <img height="320" alt="IMG_2719" src="https://github.com/user-attachments/assets/62153b8c-0fc1-425b-9320-cbf9fe68f41e" />
 
 ## 使用说明
 
